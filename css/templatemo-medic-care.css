@@ -752,6 +752,25 @@ strong {
   font-family: var(--body-font-family);    
   position: static;
 }
+.genderasing {
+  background: transparent;
+  border-radius: 1px;
+  border: 1px;
+  border-bottom: 1px solid  #6c757d;
+  color: var(--border-color);
+  font-weight: 400;
+  padding-top: 0%;
+  padding-bottom: 11px;
+  padding-left: 12px;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 1px;
+  border-bottom-color: #6c757d;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  transition: all 0.3s;
+  font-family: var(--body-font-family);    
+  position: static;
+}
 /*---------------------------------------
   FOOTER              
 -----------------------------------------*/
