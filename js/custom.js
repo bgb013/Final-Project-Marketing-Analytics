@@ -66,3 +66,9 @@
     });
     
   })(window.jQuery);
+
+document.getElementById("submit-button").addEventListener(click, getstarted);
+
+function getstarted() {
+  alert ("Thank you for joining");
+};
